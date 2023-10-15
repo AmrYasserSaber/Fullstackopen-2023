@@ -1,4 +1,4 @@
-# FullStackOpen 2020 🖖👽
+# FullStackOpen 20203🖖👽
 
 ## My submissions to [Full Stack Open 2023](https://fullstackopen.com/) 🤖👾✌
 
